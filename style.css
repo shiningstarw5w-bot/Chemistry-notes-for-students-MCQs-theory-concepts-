@@ -1,0 +1,96 @@
+body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#f4f6f8;
+}body{
+  margin:0;
+  font-family:Arial, sans-serif;
+  background:#f4f6f8;
+}
+
+section{
+  width:100%;
+  padding:15px;
+  background:white;
+  margin:10px 0;
+}
+
+section{
+  width:100%;
+  padding:15px;
+  background:white;
+  margin:10px 0;
+}
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+section {
+  width: 95%;
+  max-width: 800px;
+  margin: 15px auto;
+  padding: 15px;
+  background: white;
+  border-radius: 6px; body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+header { 
+  background: silver;
+  color: black;
+  padding: 20px;
+}
+
+section {
+  background: white;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 6px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #ddd;
+}.chem-img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 15px auto;
+  border-radius: 6px;
+}.chem-img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 15px auto;
+  border-radius: 6px;
+}.welcome-heading {
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  border-bottom: 2px solid #007BFF;
+  padding-bottom: 5px;
+}
+* {
+  box-sizing: border-box;}
+  
+  h2 {
+  background: silver;
+  color: black ;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 25px;
+  text-align: center;
+}
+.mcq {
+  background: white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 6px;
+  line-height: 1.8;
+}
